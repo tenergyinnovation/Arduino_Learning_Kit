@@ -19,13 +19,7 @@
 #define motorPin2  13// Pink   - 28BYJ48 pin 2
 #define motorPin3  A0// Yellow - 28BYJ48 pin 3
 #define motorPin4  A1// Orange - 28BYJ48 pin 4
-#define motorSpeed  100     //constant to set stepper speed
-
- 
-/**************************************/
-/*       Global variable define       */
-/**************************************/
-
+#define motorSpeed  20     //constant to set stepper speed
 
  
  /***********************************************************************

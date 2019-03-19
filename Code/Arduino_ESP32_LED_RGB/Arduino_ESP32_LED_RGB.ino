@@ -7,7 +7,7 @@
  * Rev1.0       :     Original
  * Facebook     :     https://www.facebook.com/tenergy.innovation
  * Email        :     tenergy.innovation@gmail.com
- * TEL          :     +6689-140-7205
+ * TEL          :     +6689-140-7205 
  ***********************************************************************/
 /*
   ledcWrite_RGB.ino
@@ -17,7 +17,7 @@
   This example code is in the public domain.
   
   Some basic modifications were made by vseven, mostly commenting.
- */
+  */
 
 /**************************************/
 /*        GPIO Define                 */

@@ -1,7 +1,7 @@
 /***********************************************************************
  * Project      :     Arduino_NANO_LED_RGB
  * Description  :     LED RGB Control            
- * Author       :     Tenergy Innovation Co., Ltd.
+ * Author       :     Tenergy  Innovation Co., Ltd.
  * Date         :     14 Nov 2018
  * Revision     :     1.0
  * Rev1.0       :     Original

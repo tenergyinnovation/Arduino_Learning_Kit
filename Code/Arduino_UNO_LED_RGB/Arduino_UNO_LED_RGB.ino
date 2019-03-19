@@ -68,7 +68,7 @@ void loop() {
  * DESCRIPTION: set color
  * PARAMETERS:  redValue, greenValue, blueValue
  * RETURNED:    nothing
- ***********************************************************************/
+ ************************************************************************/
 void setColor(int redValue, int greenValue, int blueValue) {
   analogWrite(redPin, redValue);
   analogWrite(greenPin, greenValue);
